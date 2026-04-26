@@ -1,2 +1,2 @@
-# LCSARapide.github.io
-LCSA Rapide → LCSARapide.github.io
+# LCSA-Rapide.github.io
+LCSA Rapide → LCSA-Rapide.github.io
